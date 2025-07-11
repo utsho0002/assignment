@@ -125,7 +125,7 @@ header{
     border-radius: 14px;
     padding-left: 24px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    gap:10px;
+    background-color: white;
 }
 .last .div2 .title{
     margin-bottom: 0px;
@@ -146,6 +146,7 @@ header{
 }
 .webflow-last{
     text-align: center;
+    background-color: white;
 }
 .webflow-last .title{
     font-size: 50px;
@@ -205,6 +206,7 @@ footer{
     border-top: 2px solid rgba(214, 221, 237, 1);
     margin-top: 70px;
     text-align: center;
+    background-color: white;
    
 }
 ul{
