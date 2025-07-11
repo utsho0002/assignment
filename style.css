@@ -1,0 +1,246 @@
+body{
+    margin: 0;
+}
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.font-inter{
+     font-family: "Inter", sans-serif;
+}
+.raleway-normal1 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+header{
+    background-image: url('assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    height: 698px;
+}
+.nav-h{
+    padding-top:50px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+}
+.logo{
+    font-size: 40px;
+    color: rgba(78, 71, 255, 1);
+    font-family: "Inter", sans-serif;
+}
+.btn1{
+    height: 48px;
+    width: 132px;
+    
+}
+.btns{
+    font-size: 16px;
+    color: white;
+    background-color: rgba(78, 71, 255, 1);
+    border:none;
+    border-radius: 5px;
+    font-family: "Raleway", sans-serif;
+}
+.nav-b{
+    text-align: center;
+    margin-top: 160px;
+}
+.h-navdet{
+    font-size: 65px;
+    color: rgba(37, 36, 50, 1);
+    font-family: "Raleway", sans-serif;
+}
+.action{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 116px;
+}
+.font{
+     font-family: "Raleway", sans-serif;
+}
+.col1 .h3{
+   font-size: 42px;
+}
+.col1 .p{
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+}
+.btn2{
+    width: 229px;
+    height: 48px;
+}
+#col2-img{
+    border-radius: 48px;
+}
+.elements{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.join{
+    text-align: center;
+    width: 1050px;
+    background-color: rgba(78, 71, 255, 0.1);
+    margin-left: 90px;
+    padding-top: 50px;
+    border-radius: 24px;
+    margin-top: 50px;
+}
+.join .title{
+    font-size: 38px;
+}
+.elements .title{
+    font-size: 70px;
+   margin-bottom: 0px;
+   color:  rgba(78, 71, 255, 1);
+}
+.elements .p{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.5) ;
+}
+.containers{
+    display: flex;
+    justify-content: space-around;
+}
+.last{
+    display: flex;
+   align-items: center;
+   gap: 10px;
+}
+.avatar{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+.container{
+    height: 250px;
+    width: 300px;
+    border-radius: 14px;
+    padding-left: 24px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    gap:10px;
+}
+.last .div2 .title{
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+.last .div2 .p{
+    font-size: 16px;
+}
+.review .title1{
+    text-align: center;
+    font-size: 42px;
+}
+.review{
+    margin: 151px;
+}
+.review .title{
+    font-size: 20px;
+}
+.webflow-last{
+    text-align: center;
+}
+.webflow-last .title{
+    font-size: 50px;
+}
+.webflow-last .p{
+    font-size: 16px;
+}
+.btn4{
+    height: 48px;
+    width: 195px;
+}
+#webflow-img{
+    border-radius: 48px;
+    margin-top: 20px;
+}
+.columns{
+    display: flex;
+    gap: 115px;
+}
+.col2 label{
+    display: block;
+}
+
+.last-sec{
+    margin-left: 150px;
+}
+.last-sec .col1 .title{
+    font-size: 80px;
+}
+.last-sec .col1{
+    height: 232px;
+    width: 528px;
+}
+.box{
+    height: 70px;
+    width: 450px;
+    border-radius: 10px;
+    border: 1px solid rgba(214, 221, 237, 1);
+    padding-left: 32px;
+}
+#txt{
+     border-radius: 10px;
+    border: 1px solid rgba(214, 221, 237, 1);
+    padding-left: 32px;
+}
+.last-sec {
+    margin-top: 163px;
+    margin-right: 150px;
+}
+footer{
+    height: 428px;
+    border-top: 2px solid rgba(214, 221, 237, 1);
+    margin-top: 70px;
+    text-align: center;
+   
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 48px;
+    margin-left: 390px;
+}
+li a{
+    text-decoration: none;
+    color:rgba(137, 135, 161, 1);
+}
+footer .logo-last{
+    font-size: 100px;
+    color: rgba(78, 71, 255, 1);
+    margin-bottom: 0px;
+}
+footer .p{
+    color:rgba(137, 135, 161, 1);
+    font-size: 16px;
+}
+.star-image{
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+.webflow-last{
+    width: 960px;
+    height: 696px;
+    
+    padding-top: 70px;
+    margin-left: 150px;
+    margin-right: 149px;
+    border-radius: 14px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+button:hover{
+    background-color:  rgba(77, 71, 255, 0.635);; 
+    color: #fff;                
+    cursor: pointer;
+   
+}
+.btn5{
+    height: 62px;
+    width: 497px;
+    margin-top: 5px;
+}
